@@ -2301,6 +2301,12 @@
 	],
 	"video": [
 		{
+			"title": "Caption Checker",
+			"description": "Check SRT and WebVTT caption files against the Netflix, BBC and DCMP Captioning Key limits for reading speed, characters per line, number of lines and timing. Runs in the browser; nothing is uploaded.",
+			"additional": "Mark Studios",
+			"url": "https://www.markstudios.com/tools/caption-checker"
+		},
+		{
 			"title": "Video accessibility guide for content creators and viewers",
 			"description": "Accessible videos not only help those with disabilities but benefits others who want to engage with your videos. Here's what you need to know to make your videos accessible.",
 			"additional": "Adobe",
